@@ -1,0 +1,12 @@
+# 検索結果（ユーザーごとに生成されるデータ）
+workspace/x-results/outputs/
+workspace/x-results/reports/
+
+# ローカル設定
+.claude/settings.local.json
+
+# OS
+.DS_Store
+
+# メモリー（ユーザー固有）
+.claude/memory/
